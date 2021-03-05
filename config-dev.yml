@@ -1,1 +1,2 @@
-springclod version='1'
+config :
+  info : "springclod version='1' "
